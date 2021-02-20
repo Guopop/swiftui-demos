@@ -4,7 +4,6 @@
 //
 //  Created by guopop's mac on 2021/2/6.
 //
-
 import SwiftUI
 
 struct Grid<Item, ItemView>: View where Item: Identifiable, ItemView: View {

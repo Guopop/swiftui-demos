@@ -4,7 +4,6 @@
 //
 //  Created by guopop's mac on 2021/1/10.
 //
-
 import Foundation
 
 class EmojiMemoryGame: ObservableObject {

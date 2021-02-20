@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "C5CAE995259724F600C24628"
+               BlueprintIdentifier = "C52E66B225E0F08000B7019C"
                BuildableName = "Memorize.app"
                BlueprintName = "Memorize"
                ReferencedContainer = "container:Memorize.xcodeproj">
@@ -44,7 +44,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "C5CAE995259724F600C24628"
+            BlueprintIdentifier = "C52E66B225E0F08000B7019C"
             BuildableName = "Memorize.app"
             BlueprintName = "Memorize"
             ReferencedContainer = "container:Memorize.xcodeproj">
@@ -61,7 +61,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "C5CAE995259724F600C24628"
+            BlueprintIdentifier = "C52E66B225E0F08000B7019C"
             BuildableName = "Memorize.app"
             BlueprintName = "Memorize"
             ReferencedContainer = "container:Memorize.xcodeproj">
